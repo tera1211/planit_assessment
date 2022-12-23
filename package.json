@@ -1,0 +1,14 @@
+{
+  "name": "planittesting",
+  "version": "1.0.0",
+  "description": "Planit technical assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naoshi Terada",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
